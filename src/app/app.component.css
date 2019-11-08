@@ -1,0 +1,15 @@
+.table {
+    border-radius: 5px;
+    width: 0%;
+    margin: 10px auto;
+    float: none;
+}
+label {
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: .85em;
+}
+.table td {
+    text-align: center;   
+ }
